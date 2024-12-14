@@ -1,0 +1,14 @@
+{
+  "name": "@digifry/clockify-to-solidinvoice",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsx ./src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "packageManager": "pnpm@9.9.0"
+}
